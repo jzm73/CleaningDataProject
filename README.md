@@ -47,6 +47,6 @@ The data frame result of point 3 is labeled with the variables used on the featu
 =================================================================
 Read the subjects data(train and test), each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. This information is merged with the data frame of point 4. In the data frame result, I create another data set with the average of each variable for each activity and each subject.
 
-Return 
+##Return 
 ==================================================================
-the data frame with the average result, 30 subject x 6 activities x (561 observations + 5 group columns)
+The data frame with the average result, 30 subject x 6 activities x (561 observations + 5 group columns)
